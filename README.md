@@ -1,7 +1,3 @@
-# [Advent of Code 2021](https://adventofcode.com/) solutions in [TempleOS](https://templeos.org/)
-
-*For how to get the same color theme, see [./Home/Theme.HC](./Home/Theme.HC)*
-
 ## Quick Start
 
 ### Dependencies

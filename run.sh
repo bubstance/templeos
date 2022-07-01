@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if [ $# -lt 1 ]; then
-    echo "Usage: ./run.sh <aoc2021.img>"
+    echo "Usage: ./run.sh <name.img>"
     echo "ERROR: no path to image is provided"
     exit 1
 fi
