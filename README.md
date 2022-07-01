@@ -52,3 +52,9 @@ $ ./sync.sh host ./name.img
 #### To install a different version of TempleOS
 
 Change the name of the `TempleOS.ISO` to `TempleOS.ISO.bak` and then change the name of either `TinkerOS.ISO` or `Shrine.ISO` to `TempleOS.ISO`. Run the scripts as described above.
+
+##### Bonus Tip!
+
+If you install `TinkerOS.ISO` and set at least one of your drive's your graphics mode to `15` during installation,
+you can then edit the `config.sh` file's QEMU flags to `-display curses` instead of all the
+gtk and kvm stuff. Keep the rest, though. ;)
