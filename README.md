@@ -48,3 +48,7 @@ $ ./sync.sh temple ./name.img
 ```console
 $ ./sync.sh host ./name.img
 ```
+
+#### To install a different version of TempleOS
+
+Change the name of the `TempleOS.ISO` to `TempleOS.ISO.bak` and then change the name of either `TinkerOS.ISO` or `Shrine.ISO` to `TempleOS.ISO`. Run the scripts as described above.
