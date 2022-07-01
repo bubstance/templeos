@@ -55,6 +55,5 @@ Change the name of the `TempleOS.ISO` to `TempleOS.ISO.bak` and then change the 
 
 ##### Bonus Tip!
 
-If you install `TinkerOS.ISO` and set at least one of your drive's your graphics mode to `15` during installation,
-you can then edit the `config.sh` file's QEMU flags to `-display curses` instead of all the
+If you install `TinkerOS.ISO` and set at least one of your drive's graphics mode to `15` during installation, you can then edit the `config.sh` file's QEMU flags to `-display curses` instead of all the
 gtk and kvm stuff. Keep the rest, though. ;)
